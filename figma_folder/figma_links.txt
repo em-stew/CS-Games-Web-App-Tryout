@@ -1,2 +1,4 @@
 Please put the links to your Figma designs (or any other application you are using) in this file. Make sure we can access it, but that no one else can modify it besides you.
 If you have any other resources that you would like us to see, please add them here as well.
+
+https://www.figma.com/design/1HYAzM9vTmpXhr8RTWlqW7/Hotel-Website?node-id=0-1&t=lgvSH4sGQas3VUVY-1
